@@ -8,3 +8,5 @@ indexdir/
 *.pkl
 submission.csv
 .DS_Store
+.venv/
+cache/
