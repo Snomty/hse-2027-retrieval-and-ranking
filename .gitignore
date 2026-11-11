@@ -15,7 +15,10 @@ homeworks/hw2-text-ranking/results/
 homeworks/hw2-text-ranking/utils.py
 homeworks/hw2-text-ranking/cache/
 homeworks/hw2-text-ranking/data/
+homeworks/hw2-text-ranking/submission.csv
 
+homeworks/hw3-learning-to-rank/model.bin
+homeworks/hw3-learning-to-rank/submission.csv
 homeworks/hw3-learning-to-rank/.venv-hw3/
 homeworks/hw3-learning-to-rank/catboost_info/
 homeworks/hw3-learning-to-rank/experiments/
